@@ -1,6 +1,6 @@
 bricks:
   dbhelper:
-    path: bricks/dbhelper
+    path: bricks/db
   # Bricks can also be imported via git url.
   # Uncomment the following lines to import
   # a brick from a remote git url.
