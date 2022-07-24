@@ -4,7 +4,7 @@ bricks:
   # Sample Brick
   # Run `mason make hello` to try it out.
   dbhelper:
-    path: brickdbhelper
+    path: bricks\dbhelper
   # Bricks can also be imported via git url.
   # Uncomment the following lines to import
   # a brick from a remote git url.
